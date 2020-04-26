@@ -7,3 +7,5 @@ Objectives
      - 2. Artist of the Day (Most Played Artist)
      - 3. Total Listening Time 
      - 4. Mood of the Day (Based on Songs Listened to) 
+Instructions:
+- Click "Show Widgets" button access functionality
